@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan",
+      "email": "genaritow@gmai.com",
+      "telefono": "3848499775",
+      "empresa": "carro",
+      "id": 27
+    },
+    {
+      "nombre": "juan",
+      "email": "genaritow@gmail.com",
+      "telefono": "3848490208326163",
+      "empresa": "developments",
+      "id": 28
+    }
+  ]
+}
